@@ -1,2 +1,24 @@
-# customtkinter-calculator
-Desktop calculator built with Python and CustomTkinter. Supports basic arithmetic operations, decimal input, error handling, and a custom dark UI.
+# Python Calculator App
+
+A desktop calculator built using Python and CustomTkinter with a clean dark UI.
+
+## Features
+- Addition, subtraction, multiplication, division
+- Decimal input support
+- Clear entry and full reset
+- Divide-by-zero error handling
+- Operator highlighting
+
+## Tech Used
+- Python
+- CustomTkinter
+
+## Screenshot
+(Add your calculator screenshot here)
+
+## How to Run
+1. Install requirements:
+   pip install customtkinter
+
+2. Run:
+   python main.py
