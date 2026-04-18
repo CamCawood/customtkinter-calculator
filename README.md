@@ -14,7 +14,7 @@ A desktop calculator built using Python and CustomTkinter with a clean dark UI.
 - CustomTkinter
 
 ## Screenshot
-(Add your calculator screenshot here)
+![Calculator](screenshot.png)
 
 ## How to Run
 1. Install requirements:
